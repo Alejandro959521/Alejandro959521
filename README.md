@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro959521&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro959521" /> </p>
 
-- 🔭 I’m currently working on **ENFOCO**
+- 🔭 I’m currently working on a project called **ENFOCO**
 
 - 🌱 I’m currently learning **Docker**
 
