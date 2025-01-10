@@ -1,4 +1,4 @@
-![MasterHead]([https://triico.net/wp-content/uploads/2020/04/7-Mejores-foros-de-programadores-1024x475.png](https://img.freepik.com/premium-photo/matrix-software-code-virtual-computer-system-banner-background-with-copy-space-made-with-generative-ai_155027-3521.jpg))
+![MasterHead](https://img.freepik.com/premium-photo/matrix-software-code-virtual-computer-system-banner-background-with-copy-space-made-with-generative-ai_155027-3521.jpg)
 <h1 align="center">Hi 👋, I'm Miguel Ojeda</h1>
 <h3 align="center">A passionate Full Stack developer from Venezuela</h3>
 
