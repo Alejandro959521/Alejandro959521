@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **DJANGO**
 
 - 👯 I’m looking to collaborate on **projects that help me become a better programmer 😎**
 
