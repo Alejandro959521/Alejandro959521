@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JavaScript and Python**
 
-- 📫 How to reach me **cabrerasm081@gmail.com**
+- 📫 How to reach me **mo5923122@gmail.com**
 
 - ⚡ Fun fact **I like running and swimming.**
 
