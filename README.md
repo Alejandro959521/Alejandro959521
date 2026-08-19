@@ -10,8 +10,6 @@
 
 - 🤝 I’m looking for help with **find a good job 😊**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
-
 - 💬 Ask me about **JavaScript and Python**
 
 - 📫 How to reach me **mo5923122@gmail.com**
